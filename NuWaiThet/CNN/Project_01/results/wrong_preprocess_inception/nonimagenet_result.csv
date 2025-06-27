@@ -1,0 +1,11 @@
+InceptionV3_class_1,InceptionV3_prob_1,InceptionV3_class_2,InceptionV3_prob_2,InceptionV3_class_3,InceptionV3_prob_3,label
+hammer,0.9849408,ashcan,0.014828967,stole,0.00023018928,ambulance
+stopwatch,0.99996996,sunglass,1.5645219e-05,paddle,5.1501606e-06,broom
+bow,0.9998061,English_foxhound,0.00012603369,stopwatch,6.784033e-05,car
+pitcher,0.9997701,flatworm,0.00022943136,spotlight,2.8132894e-07,cauliflower
+web_site,1.0,robin,0.0,bulbul,0.0,clock
+web_site,1.0,sock,7.0806766e-10,stole,3.2426827e-19,helicopter
+web_site,1.0,robin,0.0,bulbul,0.0,laptop
+web_site,0.99999976,clog,2.7717684e-07,pitcher,4.0911215e-11,speedboat
+clog,1.0,pitcher,2.1548318e-13,saltshaker,2.0542779e-16,sunglasses
+clog,0.99987566,stopwatch,0.00012110662,binoculars,1.9107752e-06,violin

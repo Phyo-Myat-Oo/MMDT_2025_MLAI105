@@ -1,0 +1,34 @@
+InceptionV3_class_1,InceptionV3_prob_1,InceptionV3_class_2,InceptionV3_prob_2,InceptionV3_class_3,InceptionV3_prob_3,label
+bagel,0.35764214,plate,0.064657815,tray,0.033008363,banana on rice cakes
+sunglasses,0.61335444,sunglass,0.3603707,wine_bottle,0.001098874,baseball cap
+fountain,0.3578916,window_screen,0.08777154,birdhouse,0.06990901,camouflage_butterfly
+tailed_frog,0.57503027,tree_frog,0.16696633,grasshopper,0.02088984,camouflage_frog
+revolver,0.26540795,syringe,0.048874035,can_opener,0.03427269,camouflage_gun
+leopard,0.97353995,cheetah,0.00106397,jaguar,0.0004925736,camouflage_leopard
+sleeping_bag,0.5652258,ice_lolly,0.036512896,plastic_bag,0.03159476,cat
+sunglasses,0.6010408,sunglass,0.31101516,cocker_spaniel,0.050093707,dog wearing sunglasses
+Border_terrier,0.3185814,cairn,0.1548773,Norfolk_terrier,0.10698215,dog
+tusker,0.44633228,African_elephant,0.37111977,Indian_elephant,0.11285123,elephant
+running_shoe,0.90413743,sandal,0.02635263,purse,0.0059140376,footwear
+fountain,0.40033937,hammer,0.23914966,beer_glass,0.02477276,hammer
+jellyfish,0.15482664,fountain,0.14981696,goblet,0.08195423,hand Xray
+alp,0.9106765,ski,0.009969864,parachute,0.008109022,helicopter
+bubble,0.6761476,pinwheel,0.12917855,comic_book,0.019672127,horse painting
+stretcher,0.92981863,ambulance,0.019476105,warplane,0.018450739,lego helicopter
+pedestal,0.38695914,fountain,0.17948925,mask,0.1297857,lion statue
+lion,0.6142548,tiger,0.094932355,snow_leopard,0.070874155,lion
+mountain_bike,0.14381951,unicycle,0.06276362,breakwater,0.04813396,motocross
+moped,0.16545385,motor_scooter,0.10414439,snowmobile,0.09963267,motorbike
+warplane,0.3850161,projectile,0.08692966,missile,0.085463315,palne
+red-backed_sandpiper,0.200947,American_alligator,0.12601978,redshank,0.09499748,person holding umberella
+pizza,0.9688354,potpie,0.0022427023,spatula,0.0012111095,pizza
+pizza,0.95479995,hot_pot,0.0020243449,frying_pan,0.0009077456,pizza_closeup
+loupe,0.45714048,spotlight,0.098947085,pill_bottle,0.09854751,scissors
+jellyfish,0.204332,oscilloscope,0.11152175,spider_web,0.0776105,skeleton Xray
+wall_clock,0.4773514,analog_clock,0.20252077,web_site,0.012871107,stopwatch
+tiger,0.17940727,tiger_cat,0.081762284,jaguar,0.023970148,stuffed toy tiger
+cab,0.9471875,racer,0.005757493,ambulance,0.0031869863,taxi
+tiger,0.58806115,tiger_cat,0.33619767,bubble,0.0027436344,tiger
+garbage_truck,0.6235156,pickup,0.10215796,thresher,0.025046082,truck_cart
+violin,0.474079,cello,0.036271535,hammer,0.035173893,violin
+goblet,0.9121199,cup,0.015887579,table_lamp,0.006446361,wineglass_with_flower

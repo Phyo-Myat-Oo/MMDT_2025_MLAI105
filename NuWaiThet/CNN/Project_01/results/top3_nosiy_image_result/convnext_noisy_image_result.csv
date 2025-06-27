@@ -1,0 +1,34 @@
+ConvNeXt_class_1,ConvNeXt_prob_1,ConvNeXt_class_2,ConvNeXt_prob_2,ConvNeXt_class_3,ConvNeXt_prob_3,label
+honeycomb,0.113625035,dough,0.11245516,revolver,0.101833396,banana on rice cakes
+mountain_tent,0.42920324,hook,0.16264382,mouse,0.048557054,baseball cap
+honeycomb,0.17320982,hair_slide,0.15436535,bow_tie,0.08527824,camouflage_butterfly
+tailed_frog,0.40428972,tree_frog,0.13338634,cricket,0.11649603,camouflage_frog
+revolver,0.47964564,assault_rifle,0.077088796,rifle,0.068310075,camouflage_gun
+leopard,0.76030344,cheetah,0.15037277,stole,0.002736865,camouflage_leopard
+sleeping_bag,0.4439959,tabby,0.19679514,plastic_bag,0.101740815,cat
+Irish_setter,0.13589545,wig,0.10559417,cocker_spaniel,0.1045185,dog wearing sunglasses
+beagle,0.4954635,Pembroke,0.043056365,wire-haired_fox_terrier,0.028121442,dog
+tusker,0.32421693,African_elephant,0.31821918,Indian_elephant,0.094933406,elephant
+running_shoe,0.89995044,sandal,0.041025937,clog,0.000853656,footwear
+bubble,0.229714,saltshaker,0.11425592,water_bottle,0.11311325,hammer
+coffeepot,0.24862163,teapot,0.096883275,goblet,0.06917187,hand Xray
+alp,0.6055365,warplane,0.03308265,cliff,0.031456716,helicopter
+bubble,0.48564386,paintbrush,0.0484979,maypole,0.024006188,horse painting
+stretcher,0.7967553,harvester,0.010204503,ambulance,0.006130072,lego helicopter
+pedestal,0.86522865,fountain,0.013051312,Afghan_hound,0.007809968,lion statue
+lion,0.855345,cheetah,0.001555061,leopard,0.001120333,lion
+breakwater,0.66154385,mountain_bike,0.053216647,seashore,0.021587651,motocross
+bubble,0.6902086,bicycle-built-for-two,0.015541265,jigsaw_puzzle,0.01055725,motorbike
+wing,0.3110713,warplane,0.22066939,projectile,0.21121502,palne
+fountain,0.4126154,paddlewheel,0.14558674,umbrella,0.030396536,person holding umberella
+potpie,0.30660334,pizza,0.087587856,sundial,0.08084762,pizza
+pizza,0.8424142,potpie,0.023289744,hot_pot,0.007463596,pizza_closeup
+nipple,0.12259841,loupe,0.080649205,hook,0.06833717,scissors
+breastplate,0.47731733,overskirt,0.088221975,cuirass,0.04757093,skeleton Xray
+analog_clock,0.30697358,stopwatch,0.14126758,wall_clock,0.1025724,stopwatch
+Staffordshire_bullterrier,0.49570972,tiger,0.1319899,tiger_cat,0.09382037,stuffed toy tiger
+racer,0.12415798,sports_car,0.09377568,speedboat,0.07716051,taxi
+snow_leopard,0.7822385,leopard,0.034820653,tiger,0.031486306,tiger
+pickup,0.32400793,garbage_truck,0.15125537,harvester,0.06877057,truck_cart
+violin,0.8799199,knot,0.010609138,chain,0.003213704,violin
+goblet,0.83340704,red_wine,0.042289764,beer_glass,0.014995003,wineglass_with_flower

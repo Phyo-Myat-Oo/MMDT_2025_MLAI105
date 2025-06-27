@@ -1,0 +1,11 @@
+ResNet50_class_1,ResNet50_prob_1,VGGNet16_class_1,VGGNet16_prob_1,InceptionV3_class_1,InceptionV3_prob_1,ConvNeXt_class_1,ConvNeXt_prob_1,EfficientNet_class_1,EfficientNet_prob_1,label
+ambulance,0.99962234,ambulance,0.99927205,hammer,0.9849408,ambulance,0.8269553,ambulance,0.8219108,ambulance
+broom,0.9997441,broom,0.99754864,stopwatch,0.99996996,broom,0.79945725,broom,0.38010952,broom
+limousine,0.19526526,minivan,0.45344833,bow,0.9998061,beach_wagon,0.37814614,cab,0.21153547,car
+cauliflower,0.9997255,cauliflower,0.999634,pitcher,0.9997701,cauliflower,0.76404005,cauliflower,0.8379836,cauliflower
+stopwatch,0.5677107,analog_clock,0.5553498,web_site,1,analog_clock,0.9290903,strainer,0.31927183,clock
+warplane,0.3737969,airship,0.26373553,web_site,1,ambulance,0.63090426,warplane,0.58881724,helicopter
+safe,0.52366006,projector,0.13963018,web_site,1,notebook,0.22507997,switch,0.12442231,laptop
+speedboat,0.99001795,speedboat,0.96414286,web_site,0.99999976,speedboat,0.63107276,speedboat,0.4497224,speedboat
+sunglass,0.15678073,sunglasses,0.11015405,clog,1,sunglass,0.60461617,sunglass,0.20669514,sunglasses
+violin,0.79915464,violin,0.92890084,clog,0.99987566,violin,0.9054962,hook,0.050865702,violin

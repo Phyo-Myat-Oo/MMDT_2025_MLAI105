@@ -1,0 +1,34 @@
+ResNet50_class_1,ResNet50_prob_1,ResNet50_class_2,ResNet50_prob_2,ResNet50_class_3,ResNet50_prob_3,label
+bagel,0.31902757,chocolate_sauce,0.16134275,tray,0.0759907,banana on rice cakes
+sunglasses,0.46360245,sunglass,0.43718415,mouse,0.010904018,baseball cap
+mushroom,0.3926648,armadillo,0.08961678,table_lamp,0.088921756,camouflage_butterfly
+agama,0.25369304,frilled_lizard,0.17270508,common_iguana,0.16593623,camouflage_frog
+screw,0.19095923,ant,0.15437016,hook,0.13311361,camouflage_gun
+leopard,0.99568105,cheetah,0.004132026,jaguar,0.00018151029,camouflage_leopard
+plastic_bag,0.3531,tabby,0.16134137,tiger_cat,0.10323012,cat
+sunglasses,0.46767354,shower_cap,0.18278763,sunglass,0.0835186,dog wearing sunglasses
+Border_terrier,0.7038138,cairn,0.05541724,Norwich_terrier,0.034867983,dog
+tusker,0.6305293,African_elephant,0.34242466,Indian_elephant,0.027033657,elephant
+running_shoe,0.93500304,sandal,0.026276004,Loafer,0.007872201,footwear
+fountain,0.98640996,saltshaker,0.0052287607,beer_glass,0.0023014261,hammer
+goblet,0.6593559,vase,0.09008696,pitcher,0.076563574,hand Xray
+spider_web,0.7087931,ant,0.17483364,alp,0.03805813,helicopter
+bubble,0.47253278,paintbrush,0.25367454,pinwheel,0.075322546,horse painting
+stretcher,0.93343025,switch,0.013589401,ambulance,0.009042664,lego helicopter
+brass,0.4278547,pedestal,0.24423012,pitcher,0.024995355,lion statue
+lion,0.905838,ram,0.014580449,cougar,0.01041515,lion
+grey_whale,0.18470801,lifeboat,0.11794276,speedboat,0.10961584,motocross
+mountain_bike,0.1412648,cannon,0.1386361,black_swan,0.063015476,motorbike
+missile,0.4963919,projectile,0.40897948,airliner,0.07752925,palne
+little_blue_heron,0.15933181,spoonbill,0.10521954,crane,0.078500584,person holding umberella
+pizza,0.9617482,stove,0.012571128,spatula,0.004479028,pizza
+pizza,0.9997607,toilet_seat,0.00021473724,bakery,1.0328494e-05,pizza_closeup
+pill_bottle,0.26917306,can_opener,0.1444909,hook,0.08385923,scissors
+jellyfish,0.48712674,hook,0.0920582,coil,0.081908174,skeleton Xray
+analog_clock,0.25526932,wall_clock,0.23700005,sundial,0.14075185,stopwatch
+teddy,0.09462622,piggy_bank,0.06857689,toyshop,0.046628945,stuffed toy tiger
+cab,0.53688556,racer,0.19977884,go-kart,0.18065597,taxi
+tiger,0.93818355,tiger_cat,0.053437352,jaguar,0.007313726,tiger
+garbage_truck,0.6156246,jeep,0.0963732,pickup,0.056411028,truck_cart
+drumstick,0.842258,violin,0.036246438,rifle,0.033005934,violin
+goblet,0.98765975,table_lamp,0.0047636284,lampshade,0.0022838227,wineglass_with_flower

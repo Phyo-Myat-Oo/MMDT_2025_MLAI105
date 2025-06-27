@@ -1,0 +1,14 @@
+ResNet50_class_1,ResNet50_prob_1,VGGNet16_class_1,VGGNet16_prob_1,InceptionV3_class_1,InceptionV3_prob_1,ConvNeXt_class_1,ConvNeXt_prob_1,EfficientNet_class_1,EfficientNet_prob_1,label
+bald_eagle,0.9999051,bald_eagle,0.9977374,bald_eagle,0.9254548,black_stork,0.01927441,bald_eagle,0.79944783,bald_eagle
+American_chameleon,0.7047897,American_chameleon,0.6445194,American_chameleon,0.70956343,water_ouzel,0.00665208,American_chameleon,0.5089273,chameleon
+goldfish,0.9987639,goldfish,0.9753618,goldfish,0.9861238,goldfish,0.0077924333,goldfish,0.8089641,fish
+goldfinch,0.9999969,goldfinch,0.9992561,goldfinch,0.9646154,shovel,0.0039615575,goldfinch,0.8214612,goldfinch
+goldfish,0.9519934,goldfish,0.9992273,goldfish,0.99148166,rock_beauty,0.0022417207,goldfish,0.8294929,goldfish
+hen,0.53461903,hen,0.49797955,hen,0.6173745,black_swan,0.003754753,hen,0.8014081,hen
+mud_turtle,0.62396234,terrapin,0.21312973,mud_turtle,0.6818515,thunder_snake,0.0019278678,mud_turtle,0.7274113,mud_turtle
+ostrich,0.9997564,ostrich,0.9698916,ostrich,0.996911,jack-o'-lantern,0.0018256609,ostrich,0.799203,ostrich
+cock,0.72317284,hen,0.5870904,hen,0.5884573,theater_curtain,0.0035731304,hen,0.6615088,rooster
+great_white_shark,0.8544742,great_white_shark,0.97416604,great_white_shark,0.660655,jack-o'-lantern,0.0018268658,great_white_shark,0.84627116,shark
+electric_ray,0.79940975,electric_ray,0.8589554,stingray,0.49944744,Gila_monster,0.001657313,stingray,0.71093476,stingray
+tench,0.47940913,tench,0.9742576,tench,0.91614205,tench,0.0031612616,tench,0.8500915,tench
+tiger_shark,0.9759186,tiger_shark,0.98280853,tiger_shark,0.953481,jack-o'-lantern,0.0018303773,tiger_shark,0.8057889,tiger_shark
