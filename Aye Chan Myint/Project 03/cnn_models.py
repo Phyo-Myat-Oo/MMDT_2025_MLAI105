@@ -46,7 +46,8 @@ class cnnModels:
         x = np.expand_dims(x, axis=0)
         x = preprocess_input(x)
         preds = model.predict(x, verbose=0)
-        return decode_predictions(preds, top=1)
+        # print("top3")
+        return decode_predictions(preds, top=3)
     def get_model_stats(self):
         stats = {}
         custom_tmp_dir = os.path.join(os.getcwd(), 'temp_models')
