@@ -4,11 +4,10 @@
 
 ### 1. Problem Statement
 
-The main goal of this project is to predict the geolocation information (Latitude and Longitude) from the given addresses written in Burmese (Unicode) using Deep Learning and Neural Language Processing. As of now, we have to rely on different sources to identify the unstructured Burmese address to identify the real location on the map.
+The main goal of this project is to predict geolocation information (latitude and longitude) from addresses written in Burmese (Unicode) using Deep Learning and Natural Language Processing. As of now, we have to rely on various sources to identify the actual location on the map from unstructured Burmese addresses.
 
 - Population: Structured and Unstructured Burmese address strings used in humanitarians, logistics and public services.
 - Sample: A sample of ~100,000 labeled addresses from Geospatial Data from MIMU (Myanmar Information Management Unit) + Data from OSM (Open Street Map)
-
 
 ### 2. Inputs, Outputs
 
