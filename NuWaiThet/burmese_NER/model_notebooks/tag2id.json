@@ -1,0 +1,10 @@
+{
+  "<PAD>": 0,
+  "O": 1,
+  "B-LOC": 2,
+  "I-LOC": 3,
+  "B-DATE": 4,
+  "I-DATE": 5,
+  "B-TIME": 6,
+  "I-TIME": 7
+}
