@@ -1,0 +1,17 @@
+{
+  "lat_scaler_min": 9.94963,
+  "lat_scaler_scale": 0.054887511394961244,
+  "lon_scaler_min": 92.1836929321289,
+  "lon_scaler_scale": 0.11188065096327664,
+  "original_lat_range": [
+    9.94963,
+    28.1687107086182
+  ],
+  "original_lon_range": [
+    92.1836929321289,
+    101.12178894238752
+  ],
+  "total_samples": 610430,
+  "train_samples": 488344,
+  "val_samples": 122086
+}
