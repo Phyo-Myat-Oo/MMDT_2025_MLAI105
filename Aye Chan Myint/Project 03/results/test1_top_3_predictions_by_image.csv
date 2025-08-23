@@ -1,0 +1,56 @@
+Image,Actual Label,Model,Top 1 Prediction,Top 1 Prob,Top 2 Prediction,Top 2 Prob,Top 3 Prediction,Top 3 Prob
+Image 1,bed,InceptionV3,web_site,0.9999224,stole,7.665427e-05,English_foxhound,8.340182e-07
+Image 1,bed,EfficientNet,studio_couch,0.64738,wardrobe,0.05884703,quilt,0.0150951175
+Image 1,bed,VGGNet16,studio_couch,0.26745993,four-poster,0.15804158,home_theater,0.13205247
+Image 1,bed,ResNet50,home_theater,0.3406731,entertainment_center,0.30761227,studio_couch,0.1640303
+Image 1,bed,ConvNeXt,studio_couch,0.25553656,home_theater,0.14103627,sliding_door,0.11217513
+Image 2,bird house,InceptionV3,tennis_ball,0.9963205,spotlight,0.002947981,leatherback_turtle,0.0005587372
+Image 2,bird house,EfficientNet,birdhouse,0.81877524,chime,0.001511295,indigo_bunting,0.0011908514
+Image 2,bird house,VGGNet16,birdhouse,0.99862504,chime,0.0012884471,mailbox,3.144699e-05
+Image 2,bird house,ResNet50,birdhouse,0.9998851,mailbox,8.046532e-05,chime,1.6297257e-05
+Image 2,bird house,ConvNeXt,birdhouse,0.92485714,chime,0.0015482726,mailbox,0.001069822
+Image 3,car,InceptionV3,bow,0.97961545,indri,0.017896552,stole,0.0012947662
+Image 3,car,EfficientNet,minivan,0.3542203,beach_wagon,0.2596153,jeep,0.10503526
+Image 3,car,VGGNet16,minivan,0.16887894,jeep,0.12419329,beach_wagon,0.083690085
+Image 3,car,ResNet50,minivan,0.30592048,pickup,0.15740831,car_wheel,0.15284148
+Image 3,car,ConvNeXt,beach_wagon,0.81964743,minivan,0.08832611,car_wheel,0.017122684
+Image 4,dog,InceptionV3,web_site,1.0,toilet_tissue,0.0,sea_urchin,0.0
+Image 4,dog,EfficientNet,American_Staffordshire_terrier,0.5184638,Ibizan_hound,0.084264755,Staffordshire_bullterrier,0.0635449
+Image 4,dog,VGGNet16,Ibizan_hound,0.2604111,whippet,0.21245117,Weimaraner,0.063622214
+Image 4,dog,ResNet50,whippet,0.55377364,Ibizan_hound,0.3011404,Italian_greyhound,0.04150942
+Image 4,dog,ConvNeXt,dingo,0.35759825,Saluki,0.25333244,Ibizan_hound,0.1186213
+Image 5,eagle,InceptionV3,web_site,1.0,toilet_tissue,0.0,sea_urchin,0.0
+Image 5,eagle,EfficientNet,macaw,0.5143383,vulture,0.086933516,bald_eagle,0.039677966
+Image 5,eagle,VGGNet16,bald_eagle,0.46597916,macaw,0.13711186,hornbill,0.10213143
+Image 5,eagle,ResNet50,hornbill,0.3027086,chambered_nautilus,0.12570564,conch,0.11065131
+Image 5,eagle,ConvNeXt,kite,0.25596714,bald_eagle,0.19653748,vulture,0.16947924
+Image 6,female,InceptionV3,stole,0.999684,English_foxhound,0.00015681075,spotlight,8.442221e-05
+Image 6,female,EfficientNet,wig,0.6099154,trench_coat,0.040187232,maillot,0.02031056
+Image 6,female,VGGNet16,trench_coat,0.1862893,maillot,0.17315373,sweatshirt,0.12034086
+Image 6,female,ResNet50,trench_coat,0.8985974,miniskirt,0.020946423,maillot,0.020311458
+Image 6,female,ConvNeXt,wig,0.45982805,trench_coat,0.23937286,lab_coat,0.0822891
+Image 7,horse,InceptionV3,web_site,0.99999404,nematode,3.6735464e-06,clog,2.2981365e-06
+Image 7,horse,EfficientNet,sorrel,0.63947034,Saluki,0.021729862,gazelle,0.019676222
+Image 7,horse,VGGNet16,sorrel,0.8610865,Arabian_camel,0.027701737,Rhodesian_ridgeback,0.021109028
+Image 7,horse,ResNet50,sorrel,0.8624851,hartebeest,0.03982249,Arabian_camel,0.03039531
+Image 7,horse,ConvNeXt,gazelle,0.6421837,impala,0.1191524,coyote,0.0486356
+Image 8,house,InceptionV3,stopwatch,1.0,web_site,3.601984e-11,rhinoceros_beetle,1.9224216e-11
+Image 8,house,EfficientNet,patio,0.23319967,window_screen,0.07416659,boathouse,0.07144827
+Image 8,house,VGGNet16,patio,0.16284214,boathouse,0.1582812,lakeside,0.112207144
+Image 8,house,ResNet50,picket_fence,0.32209903,church,0.2268966,patio,0.08215119
+Image 8,house,ConvNeXt,patio,0.17431395,mobile_home,0.16685367,palace,0.09257443
+Image 9,pigeon,InceptionV3,web_site,0.9540445,stopwatch,0.044061046,flatworm,0.000984553
+Image 9,pigeon,EfficientNet,partridge,0.40251875,ruffed_grouse,0.19013965,quail,0.06637535
+Image 9,pigeon,VGGNet16,partridge,0.25713506,ruffed_grouse,0.14258985,quail,0.11004764
+Image 9,pigeon,ResNet50,partridge,0.30065888,ruffed_grouse,0.22233498,hen,0.101048484
+Image 9,pigeon,ConvNeXt,partridge,0.37752342,quail,0.34477988,ruffed_grouse,0.10219334
+Image 10,sofa,InceptionV3,pitcher,0.9998859,web_site,8.415885e-05,saltshaker,2.5279289e-05
+Image 10,sofa,EfficientNet,pedestal,0.44422698,studio_couch,0.21411322,rocking_chair,0.03420534
+Image 10,sofa,VGGNet16,studio_couch,0.9957736,home_theater,0.0006782492,rocking_chair,0.00052474806
+Image 10,sofa,ResNet50,home_theater,0.5361032,studio_couch,0.33248568,barber_chair,0.05638477
+Image 10,sofa,ConvNeXt,studio_couch,0.7950496,barber_chair,0.008398314,rocking_chair,0.003031918
+Image 11,truck,InceptionV3,clog,0.9938753,pitcher,0.0047355415,binoculars,0.00050923665
+Image 11,truck,EfficientNet,garbage_truck,0.58086634,trailer_truck,0.12897232,snowplow,0.00837593
+Image 11,truck,VGGNet16,garbage_truck,0.8818862,trailer_truck,0.04373364,crane,0.021379648
+Image 11,truck,ResNet50,trailer_truck,0.72648406,garbage_truck,0.18796906,fire_engine,0.034247775
+Image 11,truck,ConvNeXt,garbage_truck,0.77972955,trailer_truck,0.065598376,snowplow,0.017726636
