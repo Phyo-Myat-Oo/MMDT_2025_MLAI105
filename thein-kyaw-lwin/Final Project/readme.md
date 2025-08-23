@@ -21,7 +21,7 @@ This project compares BERT-based models for Myanmar address geocoding, convertin
 ### 3. XLM-RoBERTa Premium Model
 - **Architecture**: `xlm-roberta-base`
 - **Parameters**: 278M (multilingual)
-- **Training Time**: 12 hours (estimated)
+- **Training Time**: 12 hours (estimated)[![kaggle](https://www.kaggle.com/code/theinkyawlwin/a2c-train-xlm-roberta)
 - **Purpose**: Maximum accuracy through multilingual understanding
 
 ## Dataset
