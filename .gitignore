@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large data / model files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.keras
+*.h5
+*.hdf5
+*.ckpt
+*.joblib
+*.pkl
+
+# Logs
+*.log
+
+# IDE configs
+.vscode/
+.idea/
