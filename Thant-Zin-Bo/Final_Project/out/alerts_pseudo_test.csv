@@ -1,0 +1,24 @@
+Priority,Start_ISO,Is_Weekend,Duration_Min,Priority_Level,Component_Type,Pseudo_Description
+Minor,2025-08-02T00:00:00,True,70,1,host,<test_1> on <component_name_1> Database <component_name_1>
+Minor,2025-08-01T23:59:00,False,9.483,1,host,<test_2> drive of <component_name_2>
+Critical,2025-08-01T23:59:00,False,28.333,3,host,<test_3> drive of <component_name_3>
+Minor,2025-08-01T23:58:00,False,3.85,1,host,<test_4> on <component_name_1> Database <component_name_1>
+Minor,2025-08-01T23:58:00,False,1.767,1,host,Elapsed time of <component_name_1> job is high on <component_name_1> Database <component_name_1>
+Minor,2025-08-01T23:58:00,False,14.683,1,host,There are many waiting containers in pod <component_name_4> of namespace javaic on <component_name_4> Cluster flexcube-cbs-uat-tkc
+Minor,2025-08-01T23:57:00,False,131,1,host,There are many waiting containers in pod <component_name_4> of namespace amazon-guardduty on <component_name_4> Cluster NewCoreBankingProdEnv
+Critical,2025-08-01T23:57:00,False,45.133,3,eG agent,Test <test_8> is not reporting at configured measure period on <component_2> <component_name_5>
+Minor,2025-08-01T23:55:00,False,41.467,1,host,<test_9> on <component_name_1> Database EYLOAN_<component_name_1>_DB:1880:dcey
+Critical,2025-08-01T23:54:00,False,69,3,oracle goldengate extract,<test_10> {<NAME>}
+Critical,2025-08-01T23:54:00,False,69,3,oracle goldengate extract,<test_10> {<NAME>}
+Critical,2025-08-01T23:54:00,False,69,3,oracle goldengate extract,<test_10> {<NAME>}
+Critical,2025-08-01T23:54:00,False,69,3,oracle goldengate extract,<test_10> {<NAME>}
+Critical,2025-08-01T23:54:00,False,69,3,oracle goldengate extract,<test_10> {<NAME>}
+Critical,2025-08-01T23:54:00,False,69,3,oracle goldengate extract,<test_10> {<NAME>}
+Critical,2025-08-01T23:54:00,False,69,3,oracle goldengate extract,<test_10> {<NAME>}
+Critical,2025-08-01T23:54:00,False,69,3,oracle goldengate extract,<test_10> {<NAME>}
+Major,2025-08-01T23:53:00,False,36.667,2,sql server,Many user errors have been detected in Microsoft <component_4> <component_name_125>'s error log
+Minor,2025-08-01T23:53:00,False,3.75,1,host,<test_4> on <component_name_1> Database <component_name_1>
+Critical,2025-08-01T23:52:00,False,5.217,3,external web,TCP connection failed when accessing the web page HomePage. This is affecting <component_5> <component_name_15>
+Minor,2025-08-01T23:52:00,False,5.133,1,sap hana database,<test_13> on <component_6> KBZ-PRD-DB-SYSDB:35015 {<NAME>}
+Minor,2025-08-01T23:52:00,False,5.083,1,host,<test_14> on <component_name_4> Cluster NewCoreBankingProdEnv
+Minor,2025-08-01T23:51:00,False,9.867,1,sap hana database,<test_15> on <component_6> <component_name_16>

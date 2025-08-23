@@ -1,0 +1,32 @@
+raw_component_type,id
+UNK,component 31
+aws cloud,component 9
+cloud,component 24
+cloud server hrisdb-prod has been,component 23
+disk,component 30
+eG agent,component 2
+eg agent,component 14
+eg manager,component 20
+external web,component 5
+fcp port,component 12
+host,component 1
+iis app pool,component 11
+kubernetes cluster,component 25
+load balancer,component 10
+microsoft iis web,component 27
+microsoft sql,component 21
+nan,component 26
+network interface,component 15
+node,component 19
+oracle cluster,component 18
+oracle database,component 13
+oracle goldengate extract,component 3
+oracle goldengate replicat,component 7
+oracle weblogic,component 22
+resource,component 8
+sap hana database,component 6
+sma port,component 16
+sql server,component 4
+the global,component 29
+the system,component 17
+volume,component 28

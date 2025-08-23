@@ -1,0 +1,28 @@
+{
+  "columns_detected": {
+    "start_time": "Start Time",
+    "duration": "Duration",
+    "priority": "Priority"
+  },
+  "parse_rates": {
+    "start_time_parsed": {
+      "ok": 7110,
+      "total": 7110
+    },
+    "duration_parsed": {
+      "ok": 6939,
+      "total": 7110
+    }
+  },
+  "duration_stats": {
+    "min_sec": 5,
+    "p50_sec": 611,
+    "p90_sec": 6780,
+    "max_sec": 85320
+  },
+  "priority_distribution": {
+    "Minor": 5635,
+    "Critical": 803,
+    "Major": 672
+  }
+}

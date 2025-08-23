@@ -1,0 +1,15 @@
+{
+  "rows": 7110,
+  "leaks": {
+    "name": 63,
+    "ip": 0,
+    "uuid": 0,
+    "hexid": 0
+  },
+  "dict_sizes": {
+    "component_type": 31,
+    "component_name": 1407,
+    "test": 779
+  },
+  "notes": "Consistent UNK tokens: <component_type_UNK>/<component_name_UNK>/<test_UNK>. Braces \u2192 {<component_name_*|UNK>}."
+}
