@@ -1,0 +1,13 @@
+- oracle database
+- kubernetes cluster
+- kubernetes (?:node|pod)
+- windows server
+- linux server
+- kafka broker
+- redis server
+- postgres(?:ql)? database
+- sql server
+- elasticsearch node
+- rabbitmq node
+- aws cloud
+- eG agent
