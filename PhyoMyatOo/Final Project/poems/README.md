@@ -92,19 +92,10 @@ The project includes various Burmese poem collections in JSON format, stored in 
 - Love poems
 - Various themed collections
 
-## Contributing
-
-Feel free to contribute to this project by:
+# Future Work
 1. Adding more poem collections
 2. Improving the classification models
 3. Enhancing the rule-based analysis
 4. Optimizing the poem editor
 
-## License
-
-[Add your chosen license here]
-
-## Contact
-
-[phyomyatoo.myanmar.1999@gmail.com]
 
