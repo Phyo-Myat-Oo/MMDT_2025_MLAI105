@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+        "name": "Python: wordsegment",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/myWord/myword.py",
+        "args": [
+            "syllable",
+            "-ub", "${workspaceFolder}/myWord/dict_ver1/unigram-word.bin",
+            "-bb", "${workspaceFolder}/myWord/dict_ver1/bigram-word.bin",
+            "./myWord/check.txt","./myWord/check1.syllable"
+           
+        ],
+        "console": "integratedTerminal"
+        }
+    ]
+}
